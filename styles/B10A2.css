@@ -428,41 +428,41 @@ th {
 }
 
 .img-card-1 {
-    background-image: url(/images/trainer1.png);
+    background-image: url(../images/trainer1.png);
     background-repeat: no-repeat;
     background-size: cover;
 
 }
 
 .img-card-2 {
-    background-image: url(/images/trainer2.png);
+    background-image: url(../images/trainer2.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .img-card-3 {
-    background-image: url(/images/trainer3.png);
+    background-image: url(../images/trainer3.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
 }
 
 .img-card-4 {
-    background-image: url(/images/trainer4.png);
+    background-image: url(../images/trainer4.png);
     background-repeat: no-repeat;
     background-size: calc(160%);
     background-position: center;
 }
 
 .img-card-5 {
-    background-image: url(/images/trainer5.png);
+    background-image: url(../images/trainer5.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .img-card-6 {
-    background-image: url(/images/trainer6.png);
+    background-image: url(../images/trainer6.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
