@@ -652,6 +652,11 @@ hr {
         border: none;
     }
 
+    .team-headings {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
     .team-container {
         margin-left: 20px;
         margin-right: 20px;
